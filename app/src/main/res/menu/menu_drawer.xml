@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/txt_add_city"
+        android:orderInCategory="101"
+        android:id="@+id/action_add"
+        android:icon="@android:drawable/ic_input_add"
+        />
+    <item
+        android:title="@string/txt_about"
+        android:orderInCategory="102"
+        android:id="@+id/action_about"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Info</string>
+    <string name="tv_drawer_header">Weather Info</string>
+    <string name="txt_add_city">Add City</string>
+    <string name="txt_about">About</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="snkbr_about">By Wanchen Yao</string>
+    <string name="snkbr_add">Will be finished</string>
+    <string name="title_main_tab">General Info</string>
+    <string name="title_detail_tab">Details</string>
+    <string name="toolbar_title">Weather Info</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
